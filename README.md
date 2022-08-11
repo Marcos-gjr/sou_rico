@@ -1,6 +1,6 @@
 # sou_rico
 
-Um app para ricos
+Um app para ricos, desenvolvido em uma aula de desenvolvimento de dispositivos móveis no curso de engenharia de software.
 
 ## Getting Started
 
